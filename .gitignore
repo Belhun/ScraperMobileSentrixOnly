@@ -68,3 +68,9 @@ mise.toml
 # OS Files
 Thumbs.db
 .DS_Store
+
+# Scraper runtime / output
+.mobilesentrix_cookies.txt
+output/
+*.json
+!package.json
